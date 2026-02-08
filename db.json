@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "fname": "Camilla",
+      "lname": "Hawkins",
+      "phn": "9999999999",
+      "emailId": "cijysudem@mailinator.comv"
+    },
+    {
+      "id": "4006",
+      "fname": "Gareth",
+      "lname": "Mcgee",
+      "phn": "7777337495",
+      "emailId": "cijysudem@mailinator.com"
+    },
+    {
+      "id": "7516",
+      "fname": "Divya",
+      "lname": "Puntambekar",
+      "phn": "9755150080",
+      "emailId": "divyapuntambekar7245@gmail.com"
+    },
+    {
+      "id": "1719",
+      "fname": "shubham",
+      "lname": "Puntambekar",
+      "phn": "9877273832",
+      "emailId": "shub@gmail.com"
+    },
+    {
+      "id": "b1a4",
+      "fname": "Sugandha",
+      "lname": "Puntambekar",
+      "phn": "9988877788",
+      "emailId": "sonu@gmail.com"
+    },
+    {
+      "id": "aca0",
+      "fname": "Leroy",
+      "lname": "Amena",
+      "phn": "7777777777",
+      "emailId": "hajihim@mailinator.com"
+    }
+  ]
+}
